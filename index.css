@@ -1,0 +1,27 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    font-size: 30px; 
+}
+
+h2{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+
+.listbox > a{
+    /* display: flex;
+    justify-content: center; */
+    display: block;
+    text-align: center;
+    color: #1a0eab
+    
+}
